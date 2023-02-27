@@ -9,9 +9,9 @@
     - 클라우드 환경의 데이터레이크 구성 적합도를 이해하고 데이터 수집과 분석이 가능한 데이터레이크 구성을 설계할 수 있다.
     - 각 CSP Platform 별 확장성 있고 안정적인 파이프라인을 구축할 수 있다.
 4. 교재
-   - 참고도서 교재명 : http://www.yes24.com/Product/Goods/101344835 Data Lake http://www.yes24.com/Product/Goods/101344835
+   - 참고도서 교재명 : 차세대 빅데이터 플랫폼 Data Lake http://www.yes24.com/Product/Goods/101344835
    - 참고도서 출판사 : 좋은땅
-   - 참고도서 저자 및 역자 : 윤선<br />
+   - 참고도서 저자 및 역자 : 윤선웅 <br />
   ![참고도서](https://image.aladin.co.kr/product/27030/42/cover500/k772730525_1.jpg)
 5. Time & Place : Mon. 5 ~ 7 Class(16:30 ~ 19:00) / Offline(미래혁신관 B103)
 6. Grading Policy
