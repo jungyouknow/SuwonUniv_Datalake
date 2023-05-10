@@ -1,0 +1,11 @@
+version: '3'
+services:
+  kafka-ui:
+    image: provectuslabs/kafka-ui
+    container_name: kafka-ui
+    ports:
+      - "8080:8080"
+    restart: always
+    environment:
+      - KAFKA_CLUSTERS_0_NAME=henry-msk-cluster
+      - KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS=b-2.henrymskcluster.4ka9rz.c4.kafka.ap-northeast-2.amazonaws.com:9092,b-1.henrymskcluster.4ka9rz.c4.kafka.ap-northeast-2.amazonaws.com:9092
