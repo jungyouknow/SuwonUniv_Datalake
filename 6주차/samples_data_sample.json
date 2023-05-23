@@ -1,0 +1,17 @@
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://henry-datalake-bucket/Sales/sales_data_sample.csv"
+            ]
+        },
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+                            
